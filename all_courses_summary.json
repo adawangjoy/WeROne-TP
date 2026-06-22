@@ -1,0 +1,209 @@
+[
+  {
+    "course": "A福音創意發電機",
+    "total": 150,
+    "topRegion": {
+      "label": "北部",
+      "value": 109,
+      "share": "72.7%"
+    },
+    "topAge": {
+      "label": "社青(23歲-30歲)",
+      "count": 30
+    },
+    "gender": {
+      "male": 52,
+      "female": 98
+    },
+    "topDenomination": {
+      "label": "其他/獨立教會",
+      "value": 65,
+      "share": "43.3%",
+      "churchCount": 27
+    }
+  },
+  {
+    "course": "B敬拜團隊工作坊",
+    "total": 307,
+    "topRegion": {
+      "label": "北部",
+      "value": 207,
+      "share": "67.4%"
+    },
+    "topAge": {
+      "label": "社青(23歲-30歲)",
+      "count": 76
+    },
+    "gender": {
+      "male": 135,
+      "female": 172
+    },
+    "topDenomination": {
+      "label": "其他/獨立教會",
+      "value": 188,
+      "share": "61.2%",
+      "churchCount": 59
+    }
+  },
+  {
+    "course": "C跨界宣教無界限",
+    "total": 115,
+    "topRegion": {
+      "label": "北部",
+      "value": 80,
+      "share": "69.6%"
+    },
+    "topAge": {
+      "label": "高中（16-18歲）",
+      "count": 25
+    },
+    "gender": {
+      "male": 33,
+      "female": 82
+    },
+    "topDenomination": {
+      "label": "靈糧堂系統",
+      "value": 52,
+      "share": "45.2%",
+      "churchCount": 21
+    }
+  },
+  {
+    "course": "D神連線的禱告祭壇",
+    "total": 150,
+    "topRegion": {
+      "label": "北部",
+      "value": 112,
+      "share": "74.7%"
+    },
+    "topAge": {
+      "label": "高中（16-18歲）",
+      "count": 26
+    },
+    "gender": {
+      "male": 44,
+      "female": 106
+    },
+    "topDenomination": {
+      "label": "靈糧堂系統",
+      "value": 93,
+      "share": "62.0%",
+      "churchCount": 28
+    }
+  },
+  {
+    "course": "E神國領袖特訓班",
+    "total": 147,
+    "topRegion": {
+      "label": "北部",
+      "value": 97,
+      "share": "66.0%"
+    },
+    "topAge": {
+      "label": "社青(23歲-30歲)",
+      "count": 47
+    },
+    "gender": {
+      "male": 57,
+      "female": 90
+    },
+    "topDenomination": {
+      "label": "其他/獨立教會",
+      "value": 66,
+      "share": "44.9%",
+      "churchCount": 33
+    }
+  },
+  {
+    "course": "F不暈船戀愛指南",
+    "total": 263,
+    "topRegion": {
+      "label": "北部",
+      "value": 183,
+      "share": "69.6%"
+    },
+    "topAge": {
+      "label": "國中（13-15歲）",
+      "count": 92
+    },
+    "gender": {
+      "male": 100,
+      "female": 163
+    },
+    "topDenomination": {
+      "label": "靈糧堂系統",
+      "value": 152,
+      "share": "57.8%",
+      "churchCount": 37
+    }
+  },
+  {
+    "course": "G情緒解碼與管理",
+    "total": 474,
+    "topRegion": {
+      "label": "北部",
+      "value": 354,
+      "share": "74.7%"
+    },
+    "topAge": {
+      "label": "國中（13-15歲）",
+      "count": 139
+    },
+    "gender": {
+      "male": 146,
+      "female": 328
+    },
+    "topDenomination": {
+      "label": "靈糧堂系統",
+      "value": 255,
+      "share": "53.8%",
+      "churchCount": 58
+    }
+  },
+  {
+    "course": "H.Meet God 談心室",
+    "total": 250,
+    "topRegion": {
+      "label": "北部",
+      "value": 181,
+      "share": "72.4%"
+    },
+    "topAge": {
+      "label": "大專（19-22歲）",
+      "count": 69
+    },
+    "gender": {
+      "male": 73,
+      "female": 177
+    },
+    "topDenomination": {
+      "label": "其他/獨立教會",
+      "value": 85,
+      "share": "34.0%",
+      "churchCount": 39
+    }
+  },
+  {
+    "course": "I.極限熱血對戰",
+    "total": 471,
+    "topRegion": {
+      "label": "北部",
+      "value": 303,
+      "share": "64.3%"
+    },
+    "topAge": {
+      "label": "國中（13-15歲）",
+      "count": 188
+    },
+    "gender": {
+      "male": 310,
+      "female": 161
+    },
+    "topDenomination": {
+      "label": "其他/獨立教會",
+      "value": 174,
+      "share": "36.9%",
+      "churchCount": 44
+    }
+  }
+]
